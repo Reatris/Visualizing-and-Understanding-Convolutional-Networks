@@ -2,8 +2,5 @@
 *.o
 
 # Ada Library Information
-*.ali
-/data/
-/work/
-/cat12-test/
-/cat12-train/
+*.png
+
